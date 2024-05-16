@@ -1,0 +1,11 @@
+.red{
+    background-color: yellowgreen;         /*  . indicate class */
+}
+
+.bg-yellow{
+    color: red;
+}
+
+#firstdiv{
+    background-color: aqua;              /*  # indicate id */
+}
